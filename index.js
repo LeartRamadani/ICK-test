@@ -1,1 +1,1 @@
-const leart = "Thick";
+const leart = "skinny";
